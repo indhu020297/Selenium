@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22388" started-at="2019-12-28T03:32:39Z" finished-at="2019-12-28T03:33:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22388" started-at="2019-12-28T03:32:39Z" finished-at="2019-12-28T03:33:01Z">
+      <class name="sign_up_invalid">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:sign_up_invalid@23ceabc1]" name="beforeTest" is-config="true" duration-ms="4749" started-at="2019-12-28T09:02:39Z" finished-at="2019-12-28T09:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="signupinvalid()[pri:0, instance:sign_up_invalid@23ceabc1]" name="signupinvalid" duration-ms="16876" started-at="2019-12-28T09:02:43Z" finished-at="2019-12-28T09:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupinvalid -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:sign_up_invalid@23ceabc1]" name="afterTest" is-config="true" duration-ms="742" started-at="2019-12-28T09:03:00Z" finished-at="2019-12-28T09:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- sign_up_invalid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
